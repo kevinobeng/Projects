@@ -1,0 +1,11 @@
+C:\Users\Kevin Obeng\Documents\2nd Year\advanced programming\assignment 1\GameShop\GameShop\obj\Debug\GameShop.csprojAssemblyReference.cache
+C:\Users\Kevin Obeng\Documents\2nd Year\advanced programming\assignment 1\GameShop\GameShop\obj\Debug\GameShop.Properties.Resources.resources
+C:\Users\Kevin Obeng\Documents\2nd Year\advanced programming\assignment 1\GameShop\GameShop\obj\Debug\GameShop.csproj.GenerateResource.cache
+C:\Users\Kevin Obeng\Documents\2nd Year\advanced programming\assignment 1\GameShop\GameShop\obj\Debug\GameShop.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Obeng\Documents\2nd Year\advanced programming\assignment 1\GameShop\GameShop\bin\Debug\GameShop.exe.config
+C:\Users\Kevin Obeng\Documents\2nd Year\advanced programming\assignment 1\GameShop\GameShop\bin\Debug\GameShop.exe
+C:\Users\Kevin Obeng\Documents\2nd Year\advanced programming\assignment 1\GameShop\GameShop\bin\Debug\GameShop.pdb
+C:\Users\Kevin Obeng\Documents\2nd Year\advanced programming\assignment 1\GameShop\GameShop\obj\Debug\GameShop.exe
+C:\Users\Kevin Obeng\Documents\2nd Year\advanced programming\assignment 1\GameShop\GameShop\obj\Debug\GameShop.pdb
+C:\Users\Kevin Obeng\Documents\2nd Year\advanced programming\assignment 1\GameShop\GameShop\obj\Debug\GameShop.frmGameShop.resources
+C:\Users\Kevin Obeng\Documents\2nd Year\advanced programming\assignment 1\GameShop\GameShop\obj\Debug\GameShop.frmAddGame.resources
